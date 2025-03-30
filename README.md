@@ -11,7 +11,7 @@ A simple on-chain clicker game built on Solidity. Players can click to increase 
 The contract is written in Solidity and keeps track of each player's click count.
 
 ### Functions:
-- `click()`: Increments the caller's click count.
+- `click()`: Increments the caller's click count. 
 - `getClicks(address player)`: Returns the click count of a specific player.
 
 ## Deployment
