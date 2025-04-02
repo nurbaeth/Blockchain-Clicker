@@ -12,7 +12,7 @@ The contract is written in Solidity and keeps track of each player's click count
 
 ### Functions:
 - `click()`: Increments the caller's click count.  
-- `getClicks(address player)`: Returns the click count of a specific player.
+- `getClicks(address player)`: Returns the click count of a specific player. 
 
 ## Deployment
 To deploy the contract, use Remix, Hardhat, or Foundry:
